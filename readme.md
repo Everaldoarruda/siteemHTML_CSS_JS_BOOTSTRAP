@@ -27,6 +27,8 @@ A página contém as seguintes seções:
 - **Rodapé**: Contém informações de copyright e um link para voltar ao topo da página.
 
 
----
+-**acesse**
+https://everaldoarruda.github.io/siteemHTML_CSS_JS_BOOTSTRAP/
+
 
 Deuses do Egito &copy; criado por Everaldo
